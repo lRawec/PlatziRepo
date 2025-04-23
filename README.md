@@ -14,3 +14,4 @@ Cambios desde dev editor
 
 Cambios desde la terminal de Ubuntu...
 
+Camibios desde Cursor.
